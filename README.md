@@ -4,7 +4,7 @@
 Before getting much further, you probably need to 
 ## Initializing the submodules 
 ```user@my_vault$ git submodule init;
-Submodule '0010_Meta' (https://github.com/malefficient/0010_Meta.git) registered for path '0010_Meta'
+Submodule '00_Meta' (https://github.com/malefficient/00_Meta.git) registered for path '00_Meta'
 ```
 
 ```user@my_vault$ git submodule update
