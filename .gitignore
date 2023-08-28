@@ -1,3 +1,2 @@
 #Intentional decision: We only commit changes to .obsidian when we do it with intent
 .obsidian/**
-00_Meta/
